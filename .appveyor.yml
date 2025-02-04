@@ -1,5 +1,5 @@
 image: Ubuntu2004 # образ для сборки
-stack: node 19 # окружение
+stack: node 20 # окружение
 branches:
   only:
     - main # ветка git
